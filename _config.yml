@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Jiangyu's blog"
+description: "江宇的个人技术博客"
 
 avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: jiangy269@mail2.sysu.edu.cn
   facebook:
-  github: pianfan
+  github: JiangYu-sysu
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
