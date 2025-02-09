@@ -5,7 +5,8 @@ tags: [web]
 comments: true
 author: Yu Jiang
 ---
-
+Here is my personal biography of the research.
+<!-- more -->
 
 # <center><font font color= orange>Biography</font> </center>
 ## <font font size=5em font color=#777> brief introduction</font>
