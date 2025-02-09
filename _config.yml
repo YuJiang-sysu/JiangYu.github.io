@@ -2,7 +2,7 @@ name: "Yu Jiang's Website"
 description: "Yu Jiang, Postgraduate "
 
 
-avatar: https://github.com/yujiang-sysu.github.io/JiangYu.github.io/images/lufei.jpg
+avatar: /images/lufei.jpg
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
