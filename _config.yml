@@ -6,9 +6,9 @@ avatar: https://github.com/yujiang-sysu.github.io/JiangYu.github.io/images/lufei
 favicon: https://pianfan.github.io/images/favicon.ico
 
 navigation:
-  - name: 首页
+  - name: Home
     url: /
-  - name: 分类
+  - name: category
     url: /tags
 
 paginate: 6
