@@ -8,8 +8,7 @@ favicon: https://pianfan.github.io/images/favicon.ico
 navigation:
   - name: Home
     url: /
-  - name: category
-    url: /tags
+
 
 paginate: 6
 
