@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "来自博主的一封信——致每一个我们"
+title: "Teaching"
 date:   2025-1-21
 tags: [notice]
 comments: true
